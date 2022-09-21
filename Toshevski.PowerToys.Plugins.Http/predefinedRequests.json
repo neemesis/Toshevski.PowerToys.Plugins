@@ -1,0 +1,13 @@
+{
+  "Requests": [
+    {
+      "Shortcut": "google",
+      "Url": "https://google.com/"
+    },
+    {
+      "Shortcut": "httpbin",
+      "Url": "https://httpbin.org/post",
+      "Method": "POST"
+    }
+  ]
+}

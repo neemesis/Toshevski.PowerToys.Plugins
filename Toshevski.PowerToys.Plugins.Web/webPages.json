@@ -1,0 +1,32 @@
+{
+  "Favorites": [
+    {
+      "Shortcut": "time",
+      "Url": "https://time.mk/"
+    },
+    {
+      "Shortcut": "brew",
+      "Url": "https://blog.cwa.me.uk/"
+    },
+    {
+      "Shortcut": "pinterest",
+      "Url": "https://www.pinterest.com/"
+    },
+    {
+      "Shortcut": "twitter",
+      "Url": "https://twitter.com/home"
+    },
+    {
+      "Shortcut": "yt",
+      "Url": "http://www.youtube.com/"
+    },
+    {
+      "Shortcut": "voda",
+      "Url": "https://e.vodovod-skopje.com.mk/Default.aspx"
+    },
+    {
+      "Shortcut": "struja",
+      "Url": "https://evnonline.mk/authorized/home"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "ID": "583D1696DC9B40C6BD7ART116268630E",
+  "ActionKeyword": "crypto",
+  "IsGlobal": false,
+  "Name": "Crypto",
+  "Author": "Mirche Toshevski",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/neeemesis/Toshevski.PowerToys.Plugins",
+  "ExecuteFileName": "Toshevski.PowerToys.Plugins.Crypto.dll",
+  "IcoPathDark": "dark.jpg",
+  "IcoPathLight": "light.jpg"
+}

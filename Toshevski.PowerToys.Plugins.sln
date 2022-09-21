@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PowerToysDlls", "PowerToysDlls", "{66BA0DA4-9EAA-41BC-A377-2269EFC4FC1C}"
+	ProjectSection(SolutionItems) = preProject
+		PowerToysDlls\PowerToys.Common.UI.dll = PowerToysDlls\PowerToys.Common.UI.dll
+		PowerToysDlls\PowerToys.ManagedCommon.dll = PowerToysDlls\PowerToys.ManagedCommon.dll
+		PowerToysDlls\Wox.Infrastructure.dll = PowerToysDlls\Wox.Infrastructure.dll
+		PowerToysDlls\Wox.Plugin.dll = PowerToysDlls\Wox.Plugin.dll
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toshevski.PowerToys.Plugins.Crypto", "Toshevski.PowerToys.Plugins.Crypto\Toshevski.PowerToys.Plugins.Crypto.csproj", "{55E43C85-EE8D-41B9-B66D-23383976E9E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toshevski.PowerToys.Plugins.Web", "Toshevski.PowerToys.Plugins.Web\Toshevski.PowerToys.Plugins.Web.csproj", "{2DC31500-2E5F-417D-AEAE-B57823CCB2C0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{65A3CCBD-66DA-41F4-A75A-D57D647EDD44}"
+	ProjectSection(SolutionItems) = preProject
+		Images\dark.jpg = Images\dark.jpg
+		Images\light.jpg = Images\light.jpg
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toshevski.PowerToys.Plugins.TestNewtonSoft", "Toshevski.PowerToys.Plugins.TestNewtonSoft\Toshevski.PowerToys.Plugins.TestNewtonSoft.csproj", "{7EE13AF5-D508-4CA6-8090-D0387105A2B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toshevski.PowerToys.Plugins.Http", "Toshevski.PowerToys.Plugins.Http\Toshevski.PowerToys.Plugins.Http.csproj", "{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E43C85-EE8D-41B9-B66D-23383976E9E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E43C85-EE8D-41B9-B66D-23383976E9E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E43C85-EE8D-41B9-B66D-23383976E9E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E43C85-EE8D-41B9-B66D-23383976E9E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC31500-2E5F-417D-AEAE-B57823CCB2C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC31500-2E5F-417D-AEAE-B57823CCB2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC31500-2E5F-417D-AEAE-B57823CCB2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC31500-2E5F-417D-AEAE-B57823CCB2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE13AF5-D508-4CA6-8090-D0387105A2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE13AF5-D508-4CA6-8090-D0387105A2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE13AF5-D508-4CA6-8090-D0387105A2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE13AF5-D508-4CA6-8090-D0387105A2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {082C02E8-D7D7-405C-B3D7-0B6CFDBE29D0}
+	EndGlobalSection
+EndGlobal

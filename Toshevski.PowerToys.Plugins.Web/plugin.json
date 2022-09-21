@@ -1,0 +1,13 @@
+{
+  "ID": "583D1696DC9B40C6BD7ART116228630B",
+  "ActionKeyword": "web",
+  "IsGlobal": false,
+  "Name": "Favorite Web Pages",
+  "Author": "Mirche Toshevski",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/neeemesis/Toshevski.PowerToys.Plugins",
+  "ExecuteFileName": "Toshevski.PowerToys.Plugins.Web.dll",
+  "IcoPathDark": "dark.jpg",
+  "IcoPathLight": "light.jpg"
+}
