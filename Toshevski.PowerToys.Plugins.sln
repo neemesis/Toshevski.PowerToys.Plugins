@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Toshevski.PowerToys.Plugins
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toshevski.PowerToys.Plugins.Http", "Toshevski.PowerToys.Plugins.Http\Toshevski.PowerToys.Plugins.Http.csproj", "{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toshevski.PowerToysPacker", "Toshevski.PowerToysPacker\Toshevski.PowerToysPacker.csproj", "{3835DA70-079A-4D8E-8DF3-3AAFC77805E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B529BC-24C7-4A43-87ED-5EE6EE92932B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3835DA70-079A-4D8E-8DF3-3AAFC77805E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3835DA70-079A-4D8E-8DF3-3AAFC77805E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3835DA70-079A-4D8E-8DF3-3AAFC77805E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3835DA70-079A-4D8E-8DF3-3AAFC77805E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
