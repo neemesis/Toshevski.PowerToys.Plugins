@@ -12,7 +12,7 @@ var type = "net6.0-windows";
 
 var currentDirectory = new DirectoryInfo(Directory.GetCurrentDirectory());
 
-var parentDirectory = currentDirectory.Parent;
+var parentDirectory = currentDirectory.Parent!;
 
 var powerToysDllsPath = Path.Combine(parentDirectory.FullName, "PowerToysDlls");
 var powerToysDlls = new DirectoryInfo(powerToysDllsPath).GetFiles().Select(x => x.Name).ToList();

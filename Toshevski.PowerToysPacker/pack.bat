@@ -1,0 +1,1 @@
+dotnet bin/Debug/net6.0/Toshevski.PowerToysPacker.dll
